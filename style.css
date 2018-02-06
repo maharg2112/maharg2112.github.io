@@ -1,0 +1,24 @@
+body {
+	font-family: Bookman;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	line-height: 100px;
+}
+h2 {
+	text-align: center;
+	font-size: 2em;
+}
+
+body {
+	background: url(http://www.theloop.ca/wp-content/uploads/2014/06/dock-rock-960.jpg) no-repeat center fixed;
+	background-size: cover;
+}
+
+.clear {
+	display: flex;
+	justify-content: center;
+}
+
